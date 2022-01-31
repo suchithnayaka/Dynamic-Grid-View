@@ -1,11 +1,3 @@
-//
-//  AppDelegate.swift
-//  Dynamic Grid View
-//
-//  Created by Balaji on 20/04/20.
-//  Copyright © 2020 Balaji. All rights reserved.
-//
-
 import UIKit
 
 @UIApplicationMain
